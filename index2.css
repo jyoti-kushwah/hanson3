@@ -98,6 +98,21 @@ body{
     font-style: italic;
     padding: top;
 }
+.button{
+    width: 100px;
+    height: 35px;
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    box-shadow: 2px 2px 2px red;
+}
+.button:hover{
+    background-color: blue;
+}
 .item5{
     position: fixed;
     top: 450px;
